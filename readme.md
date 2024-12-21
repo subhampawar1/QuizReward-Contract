@@ -7,6 +7,8 @@ The contract facilitates an incentivized learning or quiz-based environment wher
 
 Contract Address
 0x148e9790201fff2418ad24b4dda381eeb920284f
+![image](https://github.com/user-attachments/assets/4d95cd1f-29e7-43a1-935b-820597b82b41)
+
 
 Project Vision
 The vision of the QuizReward Contract is to create an engaging and rewarding quiz experience for users by utilizing blockchain technology. By providing users with monetary incentives for completing quizzes, this project aims to encourage knowledge sharing and increase participation in online educational content. The contract provides transparency, immutability, and automatic distribution of rewards, ensuring trust between users and the platform.
